@@ -10,5 +10,8 @@
     "address"
   ],
   "author": "Tim Weiss",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
 }
