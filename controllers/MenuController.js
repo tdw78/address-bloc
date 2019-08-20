@@ -40,7 +40,7 @@ module.exports = class MenuController {
     });
  }
 
- clear() {
+clear () {
   console.log("\x1Bc");
  }
 
