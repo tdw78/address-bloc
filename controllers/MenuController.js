@@ -51,6 +51,9 @@ addContact () {
    this.main();
 }
 
+getContactCount(){
+  return this.contacts.length;
+ }
 }
 
 
