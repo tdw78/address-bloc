@@ -51,9 +51,13 @@ addContact () {
    this.main();
 }
 
-getContactCount(){
+getContactCount () {
   return this.contacts.length;
  }
+
+remindMe () {
+  return "Learning is a life-long pursuit";
+}
 }
 
 
