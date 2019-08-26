@@ -1,0 +1,20 @@
+Questions
+
+1) Performing a search of a sorted by name IRS database for a taxpayer name
+ 
+     - For this search, I would go through the ORM to avoid the need to pull
+       all of the taxpayers out of the database.
+
+2) Searching through an unsorted list containing the days of the weekend
+
+   - I would use an iterative search since the list is unsorted and short.
+
+3) Given a list of the planets in the Milky Way in ascending order by size,
+   search for a planet with a given size.
+
+   - Since the list is sorted, I would use a binary search which would be quicker
+     than an iterative search.
+
+4) Searching for a checkpoint name in an unsorted list of Bloc checkpoints
+
+   - Since the list is unsorted, I would use an iterative search. 
